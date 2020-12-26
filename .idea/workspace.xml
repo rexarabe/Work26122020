@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="485d4dbf-320f-4850-be6f-7cf183449a5d" name="Default Changelist" comment="" />
+    <list default="true" id="485d4dbf-320f-4850-be6f-7cf183449a5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/asset/task2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/task1.js" beforeDir="false" afterPath="$PROJECT_DIR$/asset/task1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1mBmHygjpcKQeINqC9L49UMejHB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,15 +33,25 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/task16/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="task2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/asset/task2.js" working-dir="$PROJECT_DIR$/asset">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.task2.js" />
       </list>
     </recent_temporary>
   </component>
@@ -44,11 +63,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608975275330</updated>
-      <workItem from="1608975276477" duration="525000" />
+      <workItem from="1608975276477" duration="2456000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="544" y="297" width="277" height="207" key="Github.ShareDialog" timestamp="1608975841286">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="544" y="297" width="277" height="207" key="Github.ShareDialog/0.27.1366.741@0.27.1366.741" timestamp="1608975841286" />
+    <state x="473" y="84" width="410" height="633" key="Github.UntrackedFilesDialog" timestamp="1608975848441">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="473" y="84" width="410" height="633" key="Github.UntrackedFilesDialog/0.27.1366.741@0.27.1366.741" timestamp="1608975848441" />
   </component>
 </project>
