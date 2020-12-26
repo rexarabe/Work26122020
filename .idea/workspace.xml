@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="485d4dbf-320f-4850-be6f-7cf183449a5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/asset/task2.js" afterDir="false" />
+    <list default="true" id="485d4dbf-320f-4850-be6f-7cf183449a5d" name="Default Changelist" comment="I add a new file.">
+      <change afterPath="$PROJECT_DIR$/asset/task3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/task1.js" beforeDir="false" afterPath="$PROJECT_DIR$/asset/task1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/task2.js" beforeDir="false" afterPath="$PROJECT_DIR$/asset/task2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +48,13 @@
     <configuration name="task2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/asset/task2.js" working-dir="$PROJECT_DIR$/asset">
       <method v="2" />
     </configuration>
+    <configuration name="task3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/asset/task3.js" working-dir="$PROJECT_DIR$/asset">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.task3.js" />
         <item itemvalue="Node.js.task2.js" />
       </list>
     </recent_temporary>
@@ -63,12 +67,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608975275330</updated>
-      <workItem from="1608975276477" duration="2456000" />
+      <workItem from="1608975276477" duration="5591000" />
     </task>
+    <task id="LOCAL-00001" summary="I add a new file.">
+      <created>1608977971576</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608977971576</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I add a new file." />
+    <option name="LAST_COMMIT_MESSAGE" value="I add a new file." />
   </component>
   <component name="WindowStateProjectService">
     <state x="544" y="297" width="277" height="207" key="Github.ShareDialog" timestamp="1608975841286">
@@ -79,5 +95,49 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="473" y="84" width="410" height="633" key="Github.UntrackedFilesDialog/0.27.1366.741@0.27.1366.741" timestamp="1608975848441" />
+    <state width="1343" height="172" key="GridCell.Tab.0.bottom" timestamp="1608982744344">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1343" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1608982744344" />
+    <state width="1343" height="172" key="GridCell.Tab.0.center" timestamp="1608982744343">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1343" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1608982744343" />
+    <state width="1343" height="172" key="GridCell.Tab.0.left" timestamp="1608982744343">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1343" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1608982744343" />
+    <state width="1343" height="172" key="GridCell.Tab.0.right" timestamp="1608982744344">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1343" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1608982744344" />
+    <state width="1343" height="215" key="GridCell.Tab.1.bottom" timestamp="1608982092586">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1343" height="215" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1608982092586" />
+    <state width="1343" height="215" key="GridCell.Tab.1.center" timestamp="1608982092585">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1343" height="215" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1608982092585" />
+    <state width="1343" height="215" key="GridCell.Tab.1.left" timestamp="1608982092585">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1343" height="215" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1608982092585" />
+    <state width="1343" height="215" key="GridCell.Tab.1.right" timestamp="1608982092585">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1343" height="215" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1608982092585" />
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1608977977953">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1608977977953" />
+    <state x="464" y="312" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608983441832">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="464" y="312" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1608983441832" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1608977937927">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1608977937927" />
   </component>
 </project>

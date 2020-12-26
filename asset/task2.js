@@ -9,4 +9,15 @@ const objectTest  = {
 };
 
 objectTest.outThisObject();
+
 console.log(objectTest);
+
+function Product(name, price){
+    this.name = name;
+    this.price = price;
+    this.priceForUser = function(coef){
+        return this.price + coef;
+    }
+}
+
+//const product = new Procut('ball', 100)
